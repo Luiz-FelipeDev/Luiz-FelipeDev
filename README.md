@@ -44,5 +44,4 @@
 
 <!--Animação Snake -->
 
-![Snake animation](https://Luiz-FelipeDev.github.io/Luiz-FelipeDev/github-snake-dark.svg)
 
